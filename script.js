@@ -61,7 +61,7 @@ function resetBoard(){
 
     if(counter === 12){
         setTimeout(() => {
-            alert('Congratulations! You have won this game.😊s');
+            alert('Congratulations! You have won this game.');
         },1000);
     }
 }
